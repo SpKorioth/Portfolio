@@ -3,7 +3,7 @@
 ## Solo Project: xkcd Comic Website
 ![alt text](/xkcd.png)
 A website using [Node.js](https://nodejs.org/) that displays an xkcd comic as well as the some of the comic's information, such as number, title, date, and 'description' (hover over image as on the official xkcd site). The home page displays the comic of the day, and a second page displays a random comic. The second page displays a new comic every time the page is refreshed. Both pages contain a link to the page for the comic on the xkcd website. 
-#### GitHub: https://github.com/ks-csu/korioth_midterm
+#### GitHub: https://github.com/SpKorioth/korioth_midterm
 #### Heroku: https://korioth-midterm-cpsc4125.herokuapp.com/
 
 
@@ -16,4 +16,4 @@ Another Node website that uses [The Movie Database (TMDB)](https://www.themovied
 
 ## Solo Project: Java UDP Project
 An old project from my Computer Networks class at Columbus State University that I got full marks on and had used as an example alongside a few other classmates. This program uses Java programming language to send a text file over UDP 100 times, then checks the content of the files against the original.
-#### GitHub: https://github.com/ks-csu/Java-UDP-Project
+#### GitHub: https://github.com/SpKorioth/Java-UDP-Project
